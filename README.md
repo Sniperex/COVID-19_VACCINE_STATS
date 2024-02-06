@@ -12,10 +12,15 @@ The project involved several key steps:
 
 - Dashboard Creation : A user-friendly and interactive dashboard was developed using Power BI to present the key findings and insights derived from the analysis. The dashboard included multiple tabs or pages, each focusing on different aspects of the vaccination data such as global vaccination rates, country vaccination rates, distribution by vaccine type, regional disparities, etc.
 
-- Insights and Trends: Through the analysis, several valuable insights and trends were uncovered, including:
+- Insights and Trends : Through the analysis, several valuable insights and trends were uncovered, including:
 
-Global vaccination progress over time, highlighting milestones and fluctuations in vaccination rates.
-Distribution of vaccines among different regions and countries, identifying areas with high vaccination coverage and those lagging behind.
-Comparison of vaccine efficacy rates across different vaccine types and demographics.
-Identification of factors influencing vaccination rates, such as government policies, public awareness campaigns, and vaccine hesitancy.
+1. Global vaccination progress over time, highlighting milestones and fluctuations in vaccination rates.
+2. Distribution of vaccines among different regions and countries.
+3. Vaccination progress over time in various countries of the world.
+4. Identifying areas with high vaccination coverage and those lagging behind.
+5. Identifying the relation between vaccination rates and the GDP per capita of the country.
+6. The number of vaccinations administered on a daily basis and the people getting vaccinated.
+7. Variation of vaccination doses with age of the people.
+
+   
 Overall, this data analysis project provided a comprehensive overview of the Covid-19 vaccination effort up to December 31, 2023, and demonstrated the power of Microsoft Power BI in deriving actionable insights from complex datasets
