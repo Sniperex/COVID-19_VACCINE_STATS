@@ -1,6 +1,6 @@
 # COVID-19_VACCINE_STATS
 
-This data analysis project focused on examining Covid-19 vaccine data up to December 31, 2023, to extract valuable insights and trends using Microsoft Power BI. The objective was to gain a comprehensive understanding of the global vaccination effort against the Covid-19 pandemic and identify key patterns and trends in vaccination rates, distribution, and efficacy.
+This data analysis project focused on examining Covid-19 vaccine data up to December 31, 2023, to extract valuable insights and trends using Microsoft Power BI. The objective was to gain a comprehensive understanding of the global vaccination effort against the Covid-19 pandemic and identify key patterns and trends in vaccination rates and distribution.
 
 The project involved several key steps:
 
