@@ -4,15 +4,15 @@ This data analysis project focused on examining Covid-19 vaccine data up to Dece
 
 The project involved several key steps:
 
-- Data Collection : Gathering comprehensive data sets on Covid-19 vaccination from reliable sources such as government health agencies, the World Health Organization (WHO), and other reputable organizations. The data included information on vaccine types, distribution channels, administration rates, population demographics, and vaccine efficacy.
+- Data Collection : Gathering comprehensive data sets on Covid-19 vaccination from reliable sources such as government health agencies, the World Health Organization (WHO), and other reputable organizations. The data included information on vaccine types, distribution channels, administration rates, booster administration rates, GDP_per_capita and population demographics.
 
-Data Cleaning and Preprocessing: The collected data underwent thorough cleaning and preprocessing to ensure accuracy and consistency. This involved handling missing values, standardizing data formats, and removing any outliers or inconsistencies that could affect the analysis.
+- Data Cleaning and Preprocessing : The collected data underwent thorough cleaning and preprocessing to ensure accuracy and consistency. This involved handling missing values, standardizing data formats, and removing any outliers or inconsistencies that could affect the analysis.
 
-Data Analysis: Utilizing Microsoft Power BI, the cleaned data was visualized and analyzed to identify trends, patterns, and correlations. Various visualizations such as bar charts, line graphs, heat maps, and geographic maps were created to provide a comprehensive overview of the vaccination landscape.
+- Data Analysis : Utilizing Microsoft Power BI, the cleaned data was visualized and analyzed to identify trends, patterns, and correlations. Various visualizations such as bar graphs, line graphs, and heat maps were created to provide a comprehensive overview of the vaccination landscape.
 
-Dashboard Creation: A user-friendly and interactive dashboard was developed using Power BI to present the key findings and insights derived from the analysis. The dashboard included multiple tabs or pages, each focusing on different aspects of the vaccination data such as global vaccination rates, distribution by vaccine type, regional disparities, and vaccine efficacy.
+- Dashboard Creation : A user-friendly and interactive dashboard was developed using Power BI to present the key findings and insights derived from the analysis. The dashboard included multiple tabs or pages, each focusing on different aspects of the vaccination data such as global vaccination rates, country vaccination rates, distribution by vaccine type, regional disparities, etc.
 
-Insights and Trends: Through the analysis, several valuable insights and trends were uncovered, including:
+- Insights and Trends: Through the analysis, several valuable insights and trends were uncovered, including:
 
 Global vaccination progress over time, highlighting milestones and fluctuations in vaccination rates.
 Distribution of vaccines among different regions and countries, identifying areas with high vaccination coverage and those lagging behind.
