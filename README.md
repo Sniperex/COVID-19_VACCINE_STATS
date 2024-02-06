@@ -14,13 +14,19 @@ The project involved several key steps:
 
 - Insights and Trends : Through the analysis, several valuable insights and trends were uncovered, including:
 
-1. Global vaccination progress over time, highlighting milestones and fluctuations in vaccination rates.
-2. Distribution of vaccines among different regions and countries.
-3. Vaccination progress over time in various countries of the world.
-4. Identifying areas with high vaccination coverage and those lagging behind.
-5. Identifying the relation between vaccination rates and the GDP per capita of the country.
-6. The number of vaccinations administered on a daily basis and the people getting vaccinated.
-7. Variation of vaccination doses with age of the people.
+   1. Global vaccination progress over time, highlighting milestones and fluctuations in vaccination rates.
+   2. Distribution of vaccines among different regions and countries.
+   3. Vaccination progress over time in various countries of the world.
+   4. Identifying areas with high vaccination coverage and those lagging behind.
+   5. Identifying the relation between vaccination rates and the GDP per capita of the country.
+   6. The number of vaccinations administered on a daily basis and the people getting vaccinated.
+   7. Variation of vaccination doses with age of the people.
 
    
-Overall, this data analysis project provided a comprehensive overview of the Covid-19 vaccination effort up to December 31, 2023, and demonstrated the power of Microsoft Power BI in deriving actionable insights from complex datasets
+Overall, this data analysis project provided a comprehensive overview of the Covid-19 vaccination effort up to December 31, 2023, and demonstrated the power of Microsoft Power BI in deriving actionable insights from complex datasets.
+
+# PREVIEW OF THE ANALYSIS
+![Screenshot 2024-02-06 203246](https://github.com/Sniperex/COVID-19_VACCINE_STATS/assets/52499633/dad75473-34a6-4aa0-8340-c3c312090dc8)
+![Screenshot 2024-02-06 203322](https://github.com/Sniperex/COVID-19_VACCINE_STATS/assets/52499633/c0a236fd-1780-4eb1-8ade-278a76e7a762)
+
+
