@@ -4,7 +4,7 @@ This data analysis project focused on examining Covid-19 vaccine data up to Dece
 
 The project involved several key steps:
 
-Data Collection: Gathering comprehensive data sets on Covid-19 vaccination from reliable sources such as government health agencies, the World Health Organization (WHO), and other reputable organizations. The data included information on vaccine types, distribution channels, administration rates, population demographics, and vaccine efficacy.
+## Data Collection: Gathering comprehensive data sets on Covid-19 vaccination from reliable sources such as government health agencies, the World Health Organization (WHO), and other reputable organizations. The data included information on vaccine types, distribution channels, administration rates, population demographics, and vaccine efficacy.
 
 Data Cleaning and Preprocessing: The collected data underwent thorough cleaning and preprocessing to ensure accuracy and consistency. This involved handling missing values, standardizing data formats, and removing any outliers or inconsistencies that could affect the analysis.
 
